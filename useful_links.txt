@@ -1,0 +1,4 @@
+Repo : https://github.com/matterport/Mask_RCNN/issues
+New training : https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
+Inference : https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/
+s

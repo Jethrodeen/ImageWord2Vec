@@ -1,0 +1,4 @@
+
+*.jpg
+data/testcorpus.txt
+mask_rcnn_coco.h5
